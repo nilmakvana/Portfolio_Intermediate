@@ -1,1 +1,1 @@
-this is my sem-1 project in DDU.
+This is my sem-1 project in DDU.
